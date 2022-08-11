@@ -89,7 +89,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/paisaje.jpg");
+    ,url("paisaje.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -142,7 +142,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/full-stack-cropped.jpg");
+    ,url("full-stack-cropped.jpg");
 
 }
 
@@ -152,7 +152,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/latex.jpg");
+    ,url("latex.jpg");
 }
 
 .carta:nth-child(3){
@@ -161,7 +161,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/tele.jpg");
+    ,url("tele.jpg");
 
 }
 
@@ -252,7 +252,7 @@ footer .container{
     }
 
     #somos-proya .img-container{
-        background-image: url("media/dar.jpg");
+        background-image: url("dar.jpg");
         background-size: cover;
         background-position: center center;
         height: 400px;
@@ -277,7 +277,7 @@ footer .container{
         margin-top: 0px;
     }
     #somos-proya2 .img-container{
-        background-image: url("media/patata.jpg");
+        background-image: url("patata.jpg");
         background-size: cover;
         background-position: center center;
         height: 400px;
@@ -316,7 +316,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("media/latex.jpg");
+        ,url("latex.jpg");
 
     }
 
@@ -326,7 +326,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("media/full-stack-cropped.jpg");
+        ,url("full-stack-cropped.jpg");
     }
 
     .carta:nth-child(3){
@@ -335,12 +335,12 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("media/tele.jpg");
+        ,url("tele.jpg");
 
     }
 
     #caracteristicas{
-        background-image: url("media/background-2.jpeg");
+        background-image: url("background-2.jpeg");
         background-repeat: no-repeat;
         background-size: 500px 400px;
         background-position: calc(100vw - 500px) 120px;
