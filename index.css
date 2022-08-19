@@ -91,7 +91,7 @@ header a:hover{
     )
     ,url("paisaje.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: flex;
     background-position: center center;
 }
 
