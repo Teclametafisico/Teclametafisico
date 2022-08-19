@@ -42,7 +42,7 @@ button:hover{
 
 header{
     background-color: rgb(48, 64, 78);
-    
+    display: flex;
 }
 
 header .logo{
@@ -91,7 +91,7 @@ header a:hover{
     )
     ,url("paisaje.jpg");
     background-repeat: no-repeat;
-    background-size: flex;
+    background-size: cover;
     background-position: center center;
 }
 
