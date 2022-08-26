@@ -103,10 +103,25 @@ header a:hover{
 #hero button{
     font-size: 1.75em;
 }
+#somos-proya .img-container{
+    background-image: url("dar.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 400px;
+    width: 300px; 
+}
 
 #somos-proya .container{
     text-align: center;
     padding: 200px 12px;
+}
+
+#somos-proya2 .img-container{
+    background-image: url("patata.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 400px;
+    width: 300px;
 }
 #somos-proya2 .container{
     text-align: center;
