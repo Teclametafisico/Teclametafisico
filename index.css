@@ -107,8 +107,10 @@ header a:hover{
     background-image: url("dar.jpg");
     background-size: cover;
     background-position: center center;
-    height: 400px;
-    width: 300px; 
+    display: block;
+    align-items: center;
+    height: 50vh;
+    
 }
 
 #somos-proya .container{
@@ -120,8 +122,16 @@ header a:hover{
     background-image: url("patata.jpg");
     background-size: cover;
     background-position: center center;
-    height: 400px;
-    width: 300px;
+    display: flex;
+    align-items: center;
+    height: 40vh;
+    width: 60vh;
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        
+      
 }
 #somos-proya2 .container{
     text-align: center;
