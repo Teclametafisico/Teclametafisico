@@ -45,7 +45,7 @@ button:hover{
  }
 
 header{
-    max-width: max-content;
+    max-width: 100%;
     background-color: rgb(48, 64, 78);
     display: flex;
 }
