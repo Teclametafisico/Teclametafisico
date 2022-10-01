@@ -48,6 +48,8 @@ header{
     max-width: 100%;
     background-color: rgb(48, 64, 78);
     display: flex;
+    margin: 0;
+    padding: 0;
 }
 
 header .logo{
