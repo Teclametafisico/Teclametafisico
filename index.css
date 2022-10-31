@@ -34,9 +34,9 @@ button:hover{
 }
 
 .container{
-    
-    position: inherit;
     margin: auto;
+    display: grid;
+    place-items: center;
 }
 
 .color-acento{ 
