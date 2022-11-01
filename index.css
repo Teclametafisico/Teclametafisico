@@ -174,9 +174,11 @@ header a:hover{
 #nuestros-programas h2{
     margin-top: 0;
     font-size: 3.2em;
+    max-width:100%;
 }
 
 #nuestros-programas p{
+
     display: none;
 }
 
