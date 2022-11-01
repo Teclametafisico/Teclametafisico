@@ -38,8 +38,6 @@ button:hover{
 .container{
     max-width: 100%;
     margin: auto;
-    display: grid;
-    place-items: center;
 }
 
 .color-acento{ 
@@ -50,9 +48,8 @@ button:hover{
 header{
     max-width:100%;
     background-color: rgb(48, 64, 78);
-    display: flex;
-    margin: 0;
-    padding: 0;
+    
+    
 }
 
 header .logo{
