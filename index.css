@@ -36,6 +36,7 @@ button:hover{
 }
 
 .container{
+    max-width: max-content;
     margin: auto;
     display: grid;
     place-items: center;
