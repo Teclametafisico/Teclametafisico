@@ -1,6 +1,6 @@
 *{
     box-sizing: border-box;
-    max-width: max-content;
+   
 }
 
 html{
@@ -120,9 +120,15 @@ header a:hover{
     background-image: url("dar.jpg");
     background-size: cover;
     background-position: center center;
-    display: block;
+    display: flex;
     align-items: center;
-    height: 50vh;
+    height: 40vh;
+    width: 60vh;
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        
     
 }
 
