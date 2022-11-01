@@ -1,11 +1,9 @@
 *{
     box-sizing: border-box;
-   
 }
 
 html{
     scroll-behavior: smooth;
-   
 }
 
 body{
@@ -37,7 +35,7 @@ button:hover{
 }
 
 .container{
-    max-width: max-content;
+    max-width: 100%;
     margin: auto;
     display: grid;
     place-items: center;
