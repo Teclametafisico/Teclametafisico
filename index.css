@@ -5,6 +5,7 @@
 
 html{
     scroll-behavior: smooth;
+   
 }
 
 body{
@@ -46,7 +47,7 @@ button:hover{
  }
 
 header{
-    max-width: 100%;
+    max-width:100%;
     background-color: rgb(48, 64, 78);
     display: flex;
     margin: 0;
@@ -62,12 +63,14 @@ header .logo{
 }
 
 header .container{
+    max-width:100%;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
 header nav{
+    max-width:100%;
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -86,6 +89,8 @@ header a:hover{
 }
 
 #hero{
+
+    max-width:100%;    
     display: flex;
     align-items: center;
     justify-content: center;
