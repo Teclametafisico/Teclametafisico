@@ -1,3 +1,6 @@
-# Teclametafisico.github.io
-ejemplo de un github pages
-#se realizó un cambio dratico del proyecto
+# Misty Blunch's Porfolio
+
+##### Simple portfolio made with HTML5, CSS, Bulma Framework and JS.
+##### You can clone it and create your own portfolio too :squirrel:
+
+###### Made with :heart:
